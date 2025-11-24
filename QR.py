@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 qr_generator.py
-Tiny, humanized QR generator that puts an optional caption below the QR.
 Author: Surya K
 
 Requires:
