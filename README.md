@@ -1,0 +1,1 @@
+# easy_qr-code-generator
